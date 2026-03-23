@@ -1,5 +1,5 @@
 Modifying this file content just to create a difference with local repo and remote repo. ( or when team member pushed to remote then we can notice the same case)
 
 
+update form person 2 in dev branch for hello.txt
 
-modifying feature1 branch hello.txt by person 1
