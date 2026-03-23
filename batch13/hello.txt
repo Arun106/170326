@@ -3,4 +3,3 @@ Modifying this file content just to create a difference with local repo and remo
 
 update form person 2 in dev branch for hello.txt
 
-//discarding feature1 changes
