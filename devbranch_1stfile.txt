@@ -1,4 +1,6 @@
-D
 changes made by person 2
-23456
-mdofied by dev branch 2nd person devbranch1st file
+
+modified by dev branch 2nd person devbranch1st file
+
+changes made by feature1 branch
+
