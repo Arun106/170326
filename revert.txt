@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 revert conflict resolved commit
+=======
+123
+456
+111
+>>>>>>> feature1
