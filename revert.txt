@@ -1,6 +1,6 @@
-Revert conflict resolved commit
-
 123
 456
 111
 
+revert conflict resolved commit
+>>>>>>> parent of c63c250... resolve
