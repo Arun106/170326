@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 [dev dee35cc] dev file update
  1 file changed, 1 insertion(+)
  create mode 100644 exfile.txt
+=======
+line1
+>>>>>>> parent of 34e49fe... conflict resolved with manual addition of both file contenet
