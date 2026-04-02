@@ -1,1 +1,4 @@
 pick
+informationof
+add desciption
+edit option with interactive rebase
